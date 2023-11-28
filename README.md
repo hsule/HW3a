@@ -24,6 +24,10 @@ Once the app is running, follow these steps:
 
 ![Alt text](images/image.png)
 
+## Flow chart
+
+![Alt text](images/drawio.png)
+
 ## Test Document
 
 [Document 1](https://docs.google.com/document/d/1Di5oVYhUF6p-zj2y0DEBBeTvhC91KhX8/edit?usp=sharing&ouid=107784913306655694785&rtpof=true&sd=true)
